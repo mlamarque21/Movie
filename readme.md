@@ -1,1 +1,1 @@
-On regroupe le projet sur ce github
+Rassemblement des fichiers c# utiliser pour la transmission de flux video avec agora.
